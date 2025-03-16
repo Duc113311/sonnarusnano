@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'bebas';
+					src: url('3698Bebas.woff2') format('woff2'),
+						url('3698Bebas.woff') format('woff');
+					font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.bebas{font-family: 'bebas' !important;}
+
+		
